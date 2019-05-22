@@ -98,6 +98,8 @@ public class MainClass {
     
     JOptionPane.showMessageDialog(null," "+ tipo1.getGrupos().get(1).getNombre());
     
+    JOptionPane.showMessageDialog(null," "+ tipo1.getGrupos().get(1).getNombre());
+    
     System.out.println("==> For Loop Example.");
 	for (int i = 0; i < grupos.size(); i++) {
 		System.out.println(grupos.get(i).getNombre());
